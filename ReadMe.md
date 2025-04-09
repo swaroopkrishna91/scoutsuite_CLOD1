@@ -101,5 +101,3 @@ To remove all unused Docker data:
 ```powershell
 docker system prune -a --volumes
 ```
-
----
